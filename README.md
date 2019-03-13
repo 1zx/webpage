@@ -2,7 +2,7 @@
 This project is about my pet,13/3/2019
 By Charles Gateru
 ## Description
-The application is about  which contains questions.
+The application is about my pet.
 ## Setup/Installation Requirements
 * The use of VSC used as an editor
 * Use of HTML and CSS
@@ -14,7 +14,7 @@ The application is about  which contains questions.
 ## License
 MIT License
 
-Copyright (c) (2019) [Charles Gateru]
+Copyright (c) (2019) [Charles Gateru]  https://1zx.github.io/Quiz-Board/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
