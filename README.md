@@ -1,7 +1,7 @@
 # My favorite things
-{This project is about my pet,13/3/2019}
+This project is about my pet,13/3/2019
 By Charles Gateru
-## {Description}
+## Description
 The application is about  which contains questions.
 ## Setup/Installation Requirements
 * The use of VSC used as an editor
@@ -14,7 +14,7 @@ The application is about  which contains questions.
 ## License
 MIT License
 
-Copyright (c) (2018) [Charles Gateru]
+Copyright (c) (2019) [Charles Gateru]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
